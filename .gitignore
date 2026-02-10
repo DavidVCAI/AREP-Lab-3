@@ -1,3 +1,9 @@
+# Downloaded dataset files
+fashion_mnist_data/
+
+# Saved model artifacts
+saved_model/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
